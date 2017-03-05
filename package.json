@@ -1,6 +1,6 @@
 {
   "name": "rafify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": "juliangruber/rafify",
   "description": "Return a random-access-file instance, no matter wheter a file name or an already created instance is passed",
