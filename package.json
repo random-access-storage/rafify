@@ -1,0 +1,17 @@
+{
+  "name": "rafify",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "juliangruber/rafify",
+  "description": "Return a random-access-file instance, no matter wheter a file name or an already created instance is passed",
+  "scripts": {
+    "test": "prettier-standard-formatter *.js && tape *.js"
+  },
+  "devDependencies": {
+    "prettier-standard-formatter": "^0.222222222222222.333333333333333",
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "random-access-file": "^1.5.0"
+  }
+}
